@@ -5,3 +5,4 @@ echo "$NUMBER"
 
 echo "this was run automagically"
 New line added
+New line 2 added
