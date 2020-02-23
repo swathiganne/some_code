@@ -4,3 +4,4 @@ set NUMBERTWO
 set /a c=%NUMBERONE%+%NUMBERTWO%
 echo %c%
 echo "New line"
+echo "New line 2"
